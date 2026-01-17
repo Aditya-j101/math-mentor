@@ -154,7 +154,7 @@ streamlit run app.py
 The application is deployed using Streamlit Cloud / HuggingFace Spaces.
 
 🔗 Live App Link:
-(Add your deployed link here)
+https://aditya-j101-math-mentor-app-dvydip.streamlit.app/
 
 🎥 Demo Video
 
