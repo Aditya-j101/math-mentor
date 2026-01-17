@@ -76,7 +76,7 @@ Feedback buttons (✅ correct / ❌ incorrect)
 
 The overall system architecture is shown below:
 
-![Architecture Diagram](Architecture Diagram.png)
+![Architecture Diagram] https://github.com/Aditya-j101/math-mentor/blob/main/Architecture%20Diagram.png
 
 High-level Flow
 
